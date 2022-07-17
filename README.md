@@ -44,7 +44,7 @@ Prior to running this application, perform the following in the command line to 
 
 ## Usage
 
-In order to launch the application, navigate to the Bitcoin_AI_Projection_Comparison folder, open New_Models.ipynb, and run the cells to see the daily versus weekly comparison of the LSTM models. Next, open Active_Learning.ipynb and run the cells to see the daily versus weekly one year projections of the active learning model. Below is an example of the output of running the cells that shows a graph of the last 3 years of bitcoin data as well as a one year future projection using the active learning model:
+In order to launch the application, navigate to the Bitcoin_AI_Projection_Comparison folder, open New_Models.ipynb, and run the cells to see the daily versus weekly comparison of the LSTM models. Next, open Active_Learning.ipynb and run the cells to see the daily one year projections of the active learning model and open Active_Learning_Weekly to see the projections for the weekly data. Below is an example of the output of running the cells that shows a graph of the last 3 years of bitcoin data as well as a one year future projection using the active learning model:
 
 ![Output](Images/ex_output.png)
 
