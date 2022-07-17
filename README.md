@@ -44,7 +44,7 @@ Prior to running this application, perform the following in the command line to 
 
 ## Usage
 
-In order to launch the application, navigate to the Bitcoin_AI_Projection_Comparison folder, open New_Models.ipynb, and run the cells to see the daily versus weekly comparison of the LSTM models. Next, open Active_Learning.ipynb and run the cells to see the daily one year projections of the active learning model and open Active_Learning_Weekly to see the projections for the weekly data. Below is an example of the output of running the cells that shows a graph of the last 3 years of bitcoin data as well as a one year future projection using the active learning model:
+In order to launch the application, navigate to the Bitcoin_AI_Projection_Comparison folder, open the 1dayLSTM.ipynb and 7dayLSTM.ipynb files, and run the cells to see the daily versuses weekly comparison of the LSTM models. Next, open Active_Learning.ipynb and run the cells to see the daily one year projections of the active learning model and open Active_Learning_Weekly.ipynb to see the projections for the weekly data. Additionally, in the ETH_Training.ipynb and cardano.ipynb files you can find the daily active learning model fitted to Ethereum and Cardano data as a comparison for how well the model works on other coins. Below is an example of the output of running the cells that shows a graph of the last 3 years of bitcoin data as well as a one year future projection using the active learning daily model that was the most accurate model in testing:
 
 ![Output](Images/ex_output.png)
 
